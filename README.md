@@ -1,4 +1,4 @@
-# BEL076-project-list
+# BEL076-minor-project
 Hello this is a list of minor projects by undergraduates from 076BEL, Pulchowk Campus.
 ### Guide for BEL 076:
 * Step 1 - Fork this repo
